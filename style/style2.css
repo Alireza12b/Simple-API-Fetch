@@ -1,0 +1,34 @@
+.card {
+  display: flex;
+  margin: 0px 30px 25px 30px;
+  background-color: #ebc792;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 0px;
+}
+
+.card h3 {
+  font-size: 18px;
+  margin-top: 0;
+}
+
+.card p {
+  font-size: 14px;
+  color: #888;
+}
+
+.card-image {
+  margin-left: auto;
+  margin-top: auto;
+  width: 30px;
+  height: 35px;
+  align-self: center;
+  cursor: pointer;
+}
+
+#deleteAllButton{
+  margin-bottom: 10px;
+  margin-left: 30px;
+}
